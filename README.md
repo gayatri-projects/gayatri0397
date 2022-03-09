@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gayatri - @gayatri0397
 - 👀 I’m interested to work as an Data Scientist/Data Analyst/Business Analyst
 - 🌱 I’m currently learning Linux, C++, Python and Astronomy basics! 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Data Science based projects! 
 - 📫 How to reach me ... gayatri.jobs22@gmail.com
 
 <!---
